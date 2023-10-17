@@ -1,2 +1,2 @@
 # Python-Maze-Game
-In this project, I will be creating a Python Maze Game. I'll learn how to design mazes, control characters, and introduce obstacles. It's all about coding a fun and challenging maze adventure. Can I navigate through my own maze creation? Let's get started!
+This project entails the creation of a Python Maze Game. The primary objectives are to develop intricate maze designs, establish precise control over character movements, and introduce challenging obstacles. The focus is on crafting a captivating and intellectually stimulating maze adventure. The overarching question revolves around the capacity to navigate through the mazes meticulously crafted. The project initiation beckons, marking the commencement of this coding endeavor.
